@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour, je m'appelle Elyes</h1>
 <h3 align="center">Je suis un développeur web frontend.</h3>
 
-- 🔭 Je suis actuellement en formation à Becode [https://becode.org/fr/](https://becode.org/fr/)
+- 🔭 Je suis actuellement en formation à Becode : [https://becode.org/fr/](https://becode.org/fr/)
 
-- 🌱 Je suis aussi en train de perfectionner mes compétences en backend **Node.js**
+- 🌱 Je suis aussi en train de perfectionner mes compétences en backend : **Node.js**
 
-- 📫 Contactez moi **elyes.nasri88@gmail.com**
+- 📫 Contactez moi via mon Linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
